@@ -6,6 +6,7 @@ import java.sql.*;
 
 public class Billing {
 	
+	//Database Connection
 	private Connection connect()
 	{
 		Connection con = null;
